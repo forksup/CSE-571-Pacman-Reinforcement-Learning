@@ -5,4 +5,6 @@ A full description of this project can be found in [PJ4-Desp.pdf](https://github
 
 Below is an implementation of *Approximate Q-learning*. This is after the pacman agent had 50 episodes of training, and as you can see by the video the behavior is optimal although not always perfect.
 
+![Pacman](https://i.imgur.com/xxFSJot.gif)
+
 Although only a few fiels are included, the rest of the included code base can be fuond in reinforcement.zip.
