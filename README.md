@@ -1,5 +1,5 @@
 # CSE-571-Pacman-Reinforcement-Learning
-In this project, I implemented reniforcement learning techniques including MDP's for controlling Pacman. This is done using Python 2.7.
+In this project, I implemented reniforcement learning techniques including Markov Decision process for controlling Pacman. These techniques allowed me to mathmatically model decision making processes. This is done using Python 2.7.
 
 A full description of this project can be found in [PJ4-Desp.pdf](https://github.com/forksup/CSE-571-Pacman-Reinforcement-Learning/blob/main/PJ4-Desp.pdf)
 
